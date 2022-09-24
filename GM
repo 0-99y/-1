@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name		First
-// @namespace		https://github.com/zain
+// @namespace		https://github.com/0-99y
 // @version		1.0.1
 // @description		Press SHIFT + ALT + G and the location of your current geoguessr game will open in a new tab
-// @author		Zain
+// @author		0-99y
 // @homepage		https://github.com/zain
-// @downloadURL		https://gist.github.com/zain/7378d20dcfa7d15df780032ca2b78b3d/raw/geoguessr-aio.user.js
-// @updateURL		https://gist.github.com/zain/7378d20dcfa7d15df780032ca2b78b3d/raw/geoguessr-aio.user.js
+// @downloadURL		https://gist.github.com/0-99y/7378d20dcfa7d15df780032ca2b78b3d/raw/geoguessr-aio.user.js
+// @updateURL		https://gist.github.com/0.99y/7378d20dcfa7d15df780032ca2b78b3d/raw/geoguessr-aio.user.js
 // @match		http*://*/*
 // @grant		none
 // @run-at		document-idle
